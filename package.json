@@ -1,0 +1,22 @@
+{
+  "name": "socket-timer-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniagarwal97/socket-timer-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniagarwal97/socket-timer-server/issues"
+  },
+  "homepage": "https://github.com/aniagarwal97/socket-timer-server#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
